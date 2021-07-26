@@ -1,0 +1,78 @@
+.top-part>h2{
+    margin-top: 15px;
+    margin-bottom: 5px ;
+}
+.top-part>p{
+    margin: 2px;
+}
+
+.objective>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.objective>p{
+    margin: 2px;
+    padding-left: 40px;
+    padding-right: 200px;
+}
+.education>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.education>p{
+    margin: 2px;
+    padding-left: 40px;
+    padding-right: 200px;
+}
+.workexp>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.workexp>p{
+    margin: 2px;
+    padding-left: 40px;
+    padding-right: 200px;
+}
+.skill>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.AreaofInterest>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.Internship>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.Internship>p{
+    margin: 2px;
+    padding-left: 40px;
+    padding-right: 200px;
+}
+.Skilltrain>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.cocur>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.personal>h3{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+}
+.personal>p{
+    margin: 2px;
+    padding-left: 40px;
+    padding-right: 200px;
+}
